@@ -17,7 +17,7 @@
 -  实现任务1，为了让square模块由三个变为两个，我们需要修改xml的iterator,所以更改变量variable的值，将3改为2，就只进行两次迭代。
 -  修改代码如下图
 
-![code_change](http://photo.weibo.com/5175758726/wbphotos/large/mid/4040400098426606/pid/005EgXhsgw1f9nencgp9hj311y0lc498.png)
+![code_change](http://ww4.sinaimg.cn/large/005EgXhsjw1f9ndsh0e64j30jm0d1tdl.jpg)
 
 -  得到的dot图由原来的三个square变为两个，如下图
 
