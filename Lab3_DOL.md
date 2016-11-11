@@ -17,18 +17,19 @@
 -  实现任务1，为了让square模块由三个变为两个，我们需要修改xml的iterator,所以更改变量variable的值，将3改为2，就只进行两次迭代。
 -  修改代码如下图
 
-![code_change](http://ww4.sinaimg.cn/large/005EgXhsjw1f9ndsh0e64j30jm0d1tdl.jpg)
+![code_change](http://ww2.sinaimg.cn/large/005EgXhsgw1f9nencgp9hj311y0lc498.jpg)
 
 -  得到的dot图由原来的三个square变为两个，如下图
 
-![example2_dot](http://photo.weibo.com/5175758726/wbphotos/large/mid/4040392666098442/pid/005EgXhsjw1f9ndsosea7j30e60dgq3h)
+![example2_dot](http://ww2.sinaimg.cn/large/005EgXhsjw1f9ndsosea7j30e60dgq3h.jpg)
 
 -  实现任务2，为使其输出三次方数，将原来的平方改为立方，代码如下。
 
-![changecode2](http://photo.weibo.com/5175758726/wbphotos/large/mid/4040400098426606/pid/005EgXhsgw1f9nenfp1rxj311y0lcdiz.jpg)
+![changecode2](http://ww2.sinaimg.cn/large/005EgXhsgw1f9nenfp1rxj311y0lcdiz.jpg)
 -  现在得到的数据是
 
-![now](http://photo.weibo.com/5175758726/wbphotos/large/mid/4040392666098442/pid/005EgXhsjw1f9ndskr8d2j30jm0cvwiy)
+![now](http://ww3.sinaimg.cn/mw1024/005EgXhsjw1f9ndskr8d2j30jm0cvwiy.jpg)
 
 ###实验感想###
-- 这次实验并不难只要理解了只用改一点代码就可以得到结果了。但是一开始改完代码后也没有得到新的dot图，因为没有删掉原有的东西，就一直保持着原来的代码实现，只要将原先build的生成的文件删除掉，再重新build就可以了。
+- 这次实验并不难只要理解了只用改一点代码就可以得到结果了。但是一开始改完代码后也没有得到新的dot图，因为没有删掉原有的东西，就一直保持着原来的代码实现，只要将原先build的生成的文件删除掉，再重新build就可以了。 
+
