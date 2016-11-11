@@ -17,7 +17,7 @@
 -  实现任务1，为了让square模块由三个变为两个，我们需要修改xml的iterator,所以更改变量variable的值，将3改为2，就只进行两次迭代。
 -  修改代码如下图
 
-![code_change](http://photo.weibo.com/5175758726/wbphotos/large/mid/4040400098426606/pid/005EgXhsgw1f9nencgp9hj311y0lc498)
+![code_change](http://photo.weibo.com/5175758726/wbphotos/large/mid/4040400098426606/pid/005EgXhsgw1f9nencgp9hj311y0lc498.png)
 
 -  得到的dot图由原来的三个square变为两个，如下图
 
@@ -25,7 +25,7 @@
 
 -  实现任务2，为使其输出三次方数，将原来的平方改为立方，代码如下。
 
-![changecode2](http://photo.weibo.com/5175758726/wbphotos/large/mid/4040400098426606/pid/005EgXhsgw1f9nenfp1rxj311y0lcdiz)
+![changecode2](http://photo.weibo.com/5175758726/wbphotos/large/mid/4040400098426606/pid/005EgXhsgw1f9nenfp1rxj311y0lcdiz.jpg)
 -  现在得到的数据是
 
 ![now](http://photo.weibo.com/5175758726/wbphotos/large/mid/4040392666098442/pid/005EgXhsjw1f9ndskr8d2j30jm0cvwiy)
